@@ -1,2 +1,2 @@
 # input
-Simple user input reader go library
+Simple user input from stdin  go library
